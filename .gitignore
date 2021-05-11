@@ -1,0 +1,5 @@
+spec/huginn
+.env
+Gemfile.lock
+.travis.yml
+todo
